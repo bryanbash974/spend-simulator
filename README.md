@@ -1,46 +1,46 @@
-# 💼 Spend Intelligence Dashboard – Built for Procurement Clarity
+#  Spend Intelligence Dashboard – Built for Procurement Clarity
 
 Welcome to the official capstone dashboard for analyzing vendor performance, simulating custom spend scenarios, and visualizing procurement data trends. This tool was designed for **DPS procurement officers**, **SWaM compliance analysts**, and **category managers** to make smarter, faster spending decisions.
 
 ---
 
-## 🚀 Try the App  
+## Try the App  
 👉 [Click here to launch the dashboard](https://spend-simulator-cdqgvmwf7avwpgwbmdrcy4.streamlit.app/)
 
 > *No installation needed. Upload your CSV or use the preloaded dataset, choose a vendor, input a price/quantity, and get instant insights.*
 
 ---
 
-## 👥 Who Can Use This?
+##  Who Can Use This?
 
 This tool is built for:
-- 🧾 **Procurement Officers** – to track vendor-level spend over time
-- 📦 **Category Managers** – to simulate cost scenarios per vendor
-- 📊 **Budget Analysts** – to view real-time financial impact
-- ✅ **SWaM Reviewers** – to filter and evaluate vendor compliance
+-  **Procurement Officers** – to track vendor-level spend over time
+-  **Category Managers** – to simulate cost scenarios per vendor
+- **Budget Analysts** – to view real-time financial impact
+-  **SWaM Reviewers** – to filter and evaluate vendor compliance
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
-- **📁 Vendor Dropdown**  
+- ** Vendor Dropdown**  
   Pick any vendor and instantly view their historical spend
 
-- **🧮 Custom Inputs**  
+- ** Custom Inputs**  
   Enter a unit price and quantity to simulate total cost scenarios
 
-- **📈 Trend Visualizations**  
+- ** Trend Visualizations**  
   Interactive monthly spend chart using real procurement data
 
-- **🔎 Raw Data Viewer**  
+- ** Raw Data Viewer**  
   Expand to explore detailed records for each vendor
 
-- **⚙️ Streamlit App**  
+- ** Streamlit App**  
   Built with modern Python tools and live-hosted on Streamlit Cloud
 
 ---
 
-## 📊 Example Use Case
+## Example Use Case
 
 A procurement officer wants to:
 1. Compare monthly spending with “B W WILSON PAPER CO INC”
@@ -50,5 +50,4 @@ A procurement officer wants to:
 
 ---
 
-## 🗂️ File Structure
 
