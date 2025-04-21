@@ -14,8 +14,8 @@ Welcome to the official capstone dashboard for analyzing vendor performance, sim
 ##  Who Can Use This?
 
 This tool is built for:
--  **Procurement Officers** – to track vendor-level spend over time
--  **Category Managers** – to simulate cost scenarios per vendor
+-**Procurement Officers** – to track vendor-level spend over time
+- **Category Managers** – to simulate cost scenarios per vendor
 - **Budget Analysts** – to view real-time financial impact
 -  **SWaM Reviewers** – to filter and evaluate vendor compliance
 
