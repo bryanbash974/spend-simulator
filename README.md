@@ -23,19 +23,19 @@ This tool is built for:
 
 ##  Key Features
 
-- ** Vendor Dropdown**  
+- **Vendor Dropdown**  
   Pick any vendor and instantly view their historical spend
 
-- ** Custom Inputs**  
+- **Custom Inputs**  
   Enter a unit price and quantity to simulate total cost scenarios
 
-- ** Trend Visualizations**  
+- **Trend Visualizations**  
   Interactive monthly spend chart using real procurement data
 
-- ** Raw Data Viewer**  
+- **Raw Data Viewer**  
   Expand to explore detailed records for each vendor
 
-- ** Streamlit App**  
+- **Streamlit App**  
   Built with modern Python tools and live-hosted on Streamlit Cloud
 
 ---
