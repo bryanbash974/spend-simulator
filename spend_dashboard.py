@@ -49,5 +49,5 @@ st.plotly_chart(fig, use_container_width=True)
 st.metric(label="Your Custom Spend Estimate", value=f"${custom_total:,.2f}")
 
 # Optional data preview
-with st.expander("🔍 See Raw Data"):
+with st.expander("See Raw Data"):
     st.dataframe(vendor_df)
