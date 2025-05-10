@@ -5,7 +5,7 @@ Welcome to the official capstone dashboard for analyzing vendor performance, sim
 ---
 
 ## Try the App  
-👉 [Click here to launch the dashboard](https://spend-simulator-cdqgvmwf7avwpgwbmdrcy4.streamlit.app/)
+[Click here to launch the dashboard](https://spend-simulator-cdqgvmwf7avwpgwbmdrcy4.streamlit.app/)
 
 > *No installation needed. Upload your CSV or use the preloaded dataset, choose a vendor, input a price/quantity, and get instant insights.*
 
